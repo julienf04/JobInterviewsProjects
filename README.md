@@ -8,3 +8,9 @@ The first name could be written abbreviated or full (Julian - J.). Abbreviated n
 full (Julian), second name could be abbreviated or full (Ernesto; E.). If the first name is written abbreviated, second name must be abbreviated too (E.). The last name must 
 always be full (Fajardo). Examples: Julian Fajardo (valid); J. Fajardo (valid); Julian E. Fajardo (valid); Julian Ernesto Fajardo (valid); J. E. Fajardo (valid); 
 J. Ernesto Fajardo (invalid); Julian Ernesto F. (invalid)
+
+
+----------------------------------------
+
+--- "Simplificacion de fracciones": Made in June, in about 5-6-7 hours
+--- "Validacion de nombres": Made in June, in about 3-4 hours
