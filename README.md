@@ -12,5 +12,5 @@ J. Ernesto Fajardo (invalid); Julian Ernesto F. (invalid)
 
 ----------------------------------------
 
---- "Simplificacion de fracciones": Made in June, in about 5-6-7 hours
+--- "Simplificacion de fracciones": Made in June, in about 5-6-7 hours 
 --- "Validacion de nombres": Made in June, in about 3-4 hours
