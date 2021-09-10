@@ -1,4 +1,4 @@
-# JobInterviewsProjects
+# JobInterviewProjects
 This is a repository with all (or a lot of) job interview projects i have done.
 
 --- "Simplificacion de fracciones": It is a program that simplify fractions. Example: 5/10 -> 1/2
